@@ -13,4 +13,4 @@ This program is published under the open source license GPL v3.0 (http://www.gnu
   * You are allowed to include this program on a server, if this program is only distributed to the users on this server.
 
 In this case the "program" stated is CraftingTheNations - a Minecraft modification based off of the Bukkit plugin CivCraft.
-The "author" in this case is 132435phil, ssbbpeople and others (See: https://minecraft.net/terms)
+The "author" in this case is 132435phil, ssbbpeople and others (See: https://account.mojang.com/documents/minecraft_eula)
